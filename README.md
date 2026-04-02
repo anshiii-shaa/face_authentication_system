@@ -1,2 +1,27 @@
-# face_authentication_system
-A computer vision-based Face Authentication System that uses facial recognition to securely identify and verify users. It leverages deep learning and image processing techniques to detect and match faces in real time, providing accurate, fast, and contactless access control for security applications.
+# Face Authentication System
+
+## Overview
+The Face Authentication System is a computer vision-based application that uses facial recognition to verify user identity. It captures a user's face, stores it, and later compares it with real-time webcam input to grant or deny access.
+
+This project demonstrates a simple and effective implementation of face-based authentication using image processing and deep learning libraries.
+
+---
+
+## Features
+- Register user face using webcam
+- Store face image locally
+- Real-time face detection and authentication
+- Fast and contactless access control
+- Simple and beginner-friendly implementation
+
+---
+
+## Technologies Used
+- Python
+- OpenCV
+- face_recognition
+- NumPy
+- OS module
+
+---
+
